@@ -2,15 +2,13 @@ Halaman Registrasi
 
 Dengan field :
 
-Nama
-Email
-Tanggal Lahir
-Jenis Kelamin
-Agama
-Password
-Nama data base = bonaposogit_db
+- Nama, Email, Tanggal Lahir, Jenis Kelamin, Agama, Password
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/58014771/117267269-4e70e300-ae80-11eb-9b9c-7e2859634867.png)
+
+Nama data base = bonaposogit_db
+
+
 
 ## Contributing
 
